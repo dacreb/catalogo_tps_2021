@@ -1,0 +1,294 @@
+{
+    "productos": [{
+
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "02",
+                "00"
+            ],
+            "nombre": "WIFI CAMERA",
+            "marca": ["SMART HOME ", "WATERPROOF"],
+            "valores1": [" ", "2MP", " "],
+            "valores2": [" ", "1.7MM", " "],
+            "valores3": [" ", "Interior", " "],
+            "recomendaciones": [
+                "Ideal para interiores",
+                "Discreta para oficinas",
+                "Fácil instalacion"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "03",
+                "00"
+            ],
+            "nombre": "PANORAMIC CAMERA",
+            "marca": ["Ele-gate", "Foco"],
+            "valores1": [" ", "--", " "],
+            "valores2": [" ", "--", " "],
+            "valores3": [" ", "Interior", " "],
+            "recomendaciones": [
+                "Esta camara es ideal para interiores",
+                "El diseño de esta camara es conveniente y discreta",
+                "Exelente uso de aplicación"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "03",
+                "01"
+            ],
+            "nombre": "IC03720DMT",
+            "marca": ["SAXXON", "Detector de Movimientos"],
+            "valores1": [" ", "--", " "],
+            "valores2": [" ", "--", " "],
+            "valores3": [" ", "Interior", " "],
+            "recomendaciones": [
+                "Camara discreta y funcional",
+                "Mayor seguridad para ambientes cerrados",
+                "Conectividad con tu sistema actual"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "03",
+                "02"
+            ],
+            "nombre": "WIFI PANIRAMIC CAMERA",
+            "marca": ["ELE-FATE", "Foco"],
+            "valores1": [" ", ".3MP", " "],
+            "valores2": [" ", "180°", " "],
+            "valores3": [" ", "Interior", " "],
+            "recomendaciones": [
+                "Esta camara es ideal para interiores",
+                "El diseño de esta camara es conveniente y discreta",
+                "Exelente uso de aplicación"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        },
+        {
+            "id": [
+                "01",
+                "00",
+                "00"
+            ],
+            "nombre": "HDVCI camara IR EYEBALL",
+            "marca": ["Dahua", "Plastica"],
+            "valores1": [" ", "3MP", " "],
+            "valores2": [" ", "3.6MM", " "],
+            "valores3": ["Exterior", " ", "Interior "],
+            "recomendaciones": [
+                "Esta camara es ideal para exteriores",
+                "El diseño de esta camara es conveniente y elegante",
+                "Seguridad a la hora de mantenimiento"
+            ]
+
+        }
+
+
+    ]
+}

@@ -1,0 +1,11 @@
+/node_modules/
+notas.html
+gulpfile.js
+package-lock.json
+package.json
+/src/js
+/src/sass
+/build/css/app.css
+/build/css/app.min.css.map
+/build/js/bundle.js
+/build/js/bundle.js.min.map
